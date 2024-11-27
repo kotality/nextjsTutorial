@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Use this route to add CSS rules to ALL routes in app */
+/* Good pracice to add to top-level component */
+
 input[type='number'] {
   -moz-appearance: textfield;
   appearance: textfield;
